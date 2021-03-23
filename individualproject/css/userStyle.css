@@ -1,0 +1,11 @@
+.storedText {
+    white-space: pre-wrap;
+}
+
+#questionsContainer {
+    margin-bottom: 25px;
+}
+
+#pageBody {
+    margin-left: 25px;
+}

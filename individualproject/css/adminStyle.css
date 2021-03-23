@@ -1,0 +1,54 @@
+.storedText {
+    white-space: pre-wrap;
+}
+
+.incorrect {
+    color: red;
+}
+
+.correct {
+    color: green;
+}
+
+.questionDiv {
+    overflow: hidden;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+#questionsContainer {
+    margin-bottom: 30px;
+}
+
+#deleteButton {
+    margin-left: 10px;
+}
+
+#saveButton {
+    margin-left: 10px;
+}
+
+.editButton {
+    margin-top: 10px;
+}
+
+.addChoice {
+    margin-left: 10px;
+}
+
+.removeChoice {
+    margin-left: 10px;
+}
+
+.deleteQuestion {
+    margin-left: 10px;
+}
+
+.editTextarea {
+    margin-bottom: 10px;
+}
+
+input[type=text] {
+    margin-bottom: 5px;
+    
+}
